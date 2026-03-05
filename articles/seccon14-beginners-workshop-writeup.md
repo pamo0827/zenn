@@ -1,5 +1,5 @@
 ---
-title: "SECCON 14 Beginners Workshop Write-up"
+title: "SECCON 14 Beginners Workshop Writeup"
 emoji: "🔐"
 type: "tech"
 topics: ["CTF", "pwn", "security", "reversing"]
@@ -10,7 +10,7 @@ published: true
 
 # はじめに
 
-先週のSECCON Begginers WorkshopでたくさんCTFを学んできたので、この記事ではCTFプレイヤーたるもの、そのWrite-upに挑戦してみようと思います。
+先週のSECCON Begginers WorkshopでたくさんCTFを学んできたので、この記事ではCTFプレイヤーたるもの、そのWriteupに挑戦してみようと思います。
 
 CTFに慣れた方にとっては見るに耐えないような初歩的な部分から文章にまとめていますが、どうか温かい目で見守ってください。
 
